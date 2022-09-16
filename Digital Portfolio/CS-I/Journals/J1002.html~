@@ -1,0 +1,99 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>J1002 by Vincent Nguyen</title>
+  </head>
+  <body style="background-color: rgb(168, 50, 158)">
+    <h1 style="background-color: blue">J1002 by Vincent Nguyen!</h1>
+    <p1>
+      <div style="font-weight: bold">
+	Name: Vincent Nguyen
+	Journal: J1002
+	Date: 8/22/2022
+	</div>
+    <br>
+     I received assistance from:Rohit Bhupathiraju
+    <br>
+     I assisted:Abdulla Hassen
+    <br>
+    1.1:Name at least two other services that you personally use which are implemented using a Client/Server Model?
+    <br>
+     Discord, Riot client
+    <br>
+    2.1:It appears that both Jack Williams and John Williams can have a directory of the same name. Do you think the ability to have two different users create a directory of the same name is important? Why?
+    <br>
+     Anyone could open or access the files quickley with that same name.
+    <br>
+    3.1:Why do you think the home directory has a special symbol to represent it?
+    <br>
+    people can recognze that they are in home when they see that symbol
+    <br>
+    4.1:Did the prompt change? If so, how? Why is this useful?
+    <br>
+     It makes you know what directory you are in
+    <br>
+    5.1 What happens each time you press the ↑?
+    <br>
+     It moves the cursor up a level
+    <br>
+    5.2 What happens each time you press the ↓?
+    <br>
+     It moves the cursor down a level down
+    <br>
+    6.1 Was "Hello, World!" printed to the screen as before? If not, why not? What do you think happened to the text?
+    <br>
+     Hello world outputed ou.txt instead of outputting Hello, World
+    <br>
+    7.1How does the ls command differ from the tree command?
+    <br>
+     ls is standing for listing directories and files under a directory while tree command gives a list of all the files.
+    <br>
+    7.2 How do you choose to use one over the other?
+    <br>
+     If you want o see a list of files then choose ls but if you want a hierarchey of files choose tree.
+    <br>
+    8.1 What do you think the argument to sleep specifies?
+    <br>
+     it shows how time the program should sleep for in seconds.
+    <br>
+    8.2 Are you able to prove your hypothesis?
+    <br>
+     yes I put it to sleep and counted seconds and it showed the right amount.
+    <br>
+    9.1 How is the behavior different from what you expected?
+    <br>
+     I thought it was gonna sleep but it didn't
+    <br>
+    9.2 What do you think it means to run a job in the background?
+    That job can be running while you are executing commands.
+    <br>
+    9.3 What do you think the number displayed in brackets specifies?
+    <br>
+    It shsows what job it is
+<br>
+10.1 What do you observe as you execute the jobs command?
+<br>
+    It shows what jobs a running at the moment
+<br>
+10.2 How do you explain your observations?
+<br>
+It shows a list of task
+<br>
+What did I learn? What is the "big idea"?
+<br>
+There are different commands and functions that do many different things.
+<br>
+    What challenges did I encounter?
+<br>
+I had no challenges
+<br>
+How could this experience be improved?
+<br>
+I think this experience was good and there is no need to improve
+<br>
+Free Reflection: How has what I've learned affected my thinking?
+<br>
+ There are many different commands and functions that do many different things and lerning them is key to success.
+  </body>
+  </html>

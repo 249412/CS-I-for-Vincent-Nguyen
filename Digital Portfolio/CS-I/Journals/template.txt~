@@ -1,0 +1,64 @@
+Name: Vincent Nguyen
+Journal: J1002
+Date: 8/22/2022
+
+I received assistance from:Sameer Agarwal
+
+I assisted:Abdulla Hassen
+
+1.1:Name at least two other services that you personally use which are implemented using a Client/Server Model?
+Discord, Riot client
+
+2.1:It appears that both Jack Williams and John Williams can have a directory of the same name. Do you think the ability to have two different users create a directory of the same name is important? Why?
+Anyone could open or access the files quickley with that same name.
+
+3.1:Why do you think the home directory has a special symbol to represent it?
+people can recognze that they are in home when they see that symbol
+
+4.1:Did the prompt change? If so, how? Why is this useful?
+It makes you know what directory you are in
+
+5.1 What happens each time you press the ↑?
+It moves the cursor up a level
+
+5.2 What happens each time you press the ↓?
+It moves the cursor down a level down
+
+6.1 Was "Hello, World!" printed to the screen as before? If not, why not? What do you think happened to the text?
+Hello world outputed ou.txt instead of outputting Hello, World
+
+7.1How does the ls command differ from the tree command?
+ls is standing for listing directories and files under a directory while tree command gives a list of all the files.
+
+7.2 How do you choose to use one over the other?
+If you want o see a list of files then choose ls but if you want a hierarchey of files choose tree.
+
+8.1 What do you think the argument to sleep specifies?
+it shows how time the program should sleep for in seconds.
+
+8.2 Are you able to prove your hypothesis?
+yes I put it to sleep and counted seconds and it showed the right amount.
+
+9.1 How is the behavior different from what you expected?
+I thought it was gonna sleep but it didn't
+
+9.2 What do you think it means to run a job in the background?
+You can use commands while a anpother job is in the background.
+
+9.3 What do you think the number displayed in brackets specifies?
+It shsows what job it is
+
+10.1 What do you observe as you execute the jobs command?
+It shows what jobs a running at the moment
+
+10.2 How do you explain your observations?
+It shows a list of task 
+
+What did I learn? What is the "big idea"?
+There are different commands and functions that do many different things.
+What challenges did I encounter?
+n/a
+How could this experience be improved?
+n/a
+Free Reflection: How has what I've learned affected my thinking?
+n/a

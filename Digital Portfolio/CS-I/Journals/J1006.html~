@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>J1006 by Vincent Nguyen</title>
+  </head>
+  <body style="background-color:blue; color:white; " >
+    <h1>J1006 by Vincent Nguyen!</h1>
+    <div style="font-weight: bold">
+    Name: Vincent Nguyen
+     Journal: J1006
+     Date: 8/26/2022
+    </div>
+    <br>
+     I received assistance from:Rohit Bhupathiraju
+    <br>
+     I assisted:Abdulla Hassen
+    <br>
+    1.1:What is Git communicating to you?
+    <br>
+    The commit's tag
+    <br>
+    1.2:What do you see that is common between this git log command and the previous git commit?
+    <br>
+    My commit message is still there.
+    <br>
+    1.3:Why do you think this is?
+    <br>
+    Because we are asking git to show us what we saved.
+    <br>
+    2.1:What do you notice about file1.txt and file2.txt? How are they displayed in git status?
+    <br>
+    It shows that the files exist, and file 1 has changes made while file 2 shows thi ifle has not been added to git message.
+    <br>
+    2.2:Are they both displayed in the same section? If not, why not?
+    <br>
+    They are not in the same section because file 2 has not been added to git.
+    <br>
+    3.1:What do you notice about file1.txt and file2.txt?
+    <br>
+    How are they displayed in git status
+    <br>
+    3.2:Compare and contrast the manner in which the two files are displayed.
+    <br>
+    File 1 has been changed and needs to be committed, file 2 has been created and needs to be commited.
+    <br>
+    4.1:How many files are listed as having been changed?
+    <br>
+    It shows that 2 files have been changed
+    <br>
+    4.2:What are the specific differences listed for each file? In what color is the difference displayed?
+    <br>
+    The differences that are listed here are the changes from when we added lines to both files.
+    <br>
+    5.1:What does Git tell you has changed? Why?
+    <br>
+    Git does not tell me anything that changes
+    <br>
+    <hr>
+    What did I learn? What is the "big idea"?
+    <br>
+I learned how to use git to track changes.
+<br>
+    What challenges did I encounter?
+<br>
+I encountered no challenges
+<br>
+How could this experience be improved?
+<br>
+I had no trouble the experience was very helpful and no improvement needed
+<br>
+Free Reflection: How has what I've learned affected my thinking?
+<br>
+I was able to learn git with efficency and with the best of my ability.
+  </body>
+  </html>
